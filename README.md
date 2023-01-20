@@ -36,6 +36,7 @@ https://user-images.githubusercontent.com/119460677/213619351-5dde2022-8b5a-4b68
 <p align="center">
 Set Domain Controller’s NIC Private IP address to be static:
 <br/>
+ 
 https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031-8237-79514d4d58eb.mp4
 
 <br />
@@ -53,6 +54,7 @@ https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13
 Install Active Directory : Login to DC-1 to install Active Directory Domain Services  
 <br/>
 <br />
+ 
 https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b-a203-094e8e749160.mp4
 
 <br />
