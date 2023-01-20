@@ -68,6 +68,9 @@ Step 5: Create a new forest as mydomain.com
 <br />
 <br />
 Step 6: Creating an Organizational Unit in AD Users and Computers (_EMPLOYEES_ AND _ADMINS_)
+<br />
+<br />
+ 
 https://user-images.githubusercontent.com/119460677/213623591-ce98c861-3f94-44cd-95ca-37e35889df54.mp4
 
 
