@@ -48,23 +48,24 @@ Login to the Domain Controller and enable ICMPv4 Protocols through Windows Firew
 
 https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13-b2c8-b88996f2308a.mp4
 
-Sanitization Steps"/>
 <br />
 
 <br />
 <br />
 <p align="center">
 Install Active Directory : Login to DC-1 to install Active Directory Domain Services  
- <br/>
-
+<br/>
+<br />
 https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b-a203-094e8e749160.mp4
 
 <br />
 <br />
 <p align="center">
-New forest as mydomain.com :  <br/>
+New forest as mydomain.com :  
+<br />
+<br />
 <img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Sanitization complete:  <br/>
+<br />
 <br />
 <br />
 
