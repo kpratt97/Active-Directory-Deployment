@@ -76,6 +76,7 @@ https://user-images.githubusercontent.com/119460677/213623591-ce98c861-3f94-44cd
 
 <br />
 <br />
+ <p align="center">
 Step 7: Creating a new employee named Luffy also adding Luffy to the "Domain Admins"  <br/>
 </p>
 
