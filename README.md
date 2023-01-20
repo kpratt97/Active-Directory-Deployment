@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031
 <br />
 <br />
 <p align="center">
-Step 3: Login to the Domain Controller and enable ICMPv4 Protocols through Windows Firewall: <br/>
+Step 3: Login to the Domain Controller remote desktop and enable ICMPv4 Protocols through Windows Firewall: <br/>
 <br />
  
 https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13-b2c8-b88996f2308a.mp4
@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13
 <br />
 <br />
 <p align="center">
-Step 4: Login to DC-1 to install Active Directory Domain Services  
+Step 4: While in DC-1 I will install Active Directory Domain Services  
 <br/>
 <br />
  
@@ -60,14 +60,14 @@ https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b
 <br />
 <br />
 <p align="center">
-Step 5: New forest as mydomain.com 
+Step 5: Create a new forest as mydomain.com 
 <br />
 <br />
 <img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
-
+Step 6: Creating an Organizational Unit in AD Users and Computers (_EMPLOYEES_ AND _ADMINS_)
 https://user-images.githubusercontent.com/119460677/213623591-ce98c861-3f94-44cd-95ca-37e35889df54.mp4
 
 
