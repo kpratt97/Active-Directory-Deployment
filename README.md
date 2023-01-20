@@ -21,7 +21,7 @@ Active Directory is a database and set of services that connect users with the n
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating the Domain and Client through Microsoft Azure: <br/>
+Step 1: Creating the Domain Controller and Client through Microsoft Azure <br/>
 <br />
 <br />
 
@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/119460677/213619351-5dde2022-8b5a-4b68
 <br />
 <br />
 <p align="center">
-Set Domain Controller’s NIC Private IP address to be static:
+Step 2: In Azure we will set the Domain Controller’s NIC Private IP address to be static
 <br/>
  
 https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031-8237-79514d4d58eb.mp4
@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031
 <br />
 <br />
 <p align="center">
-Login to the Domain Controller and enable ICMPv4 Protocols through Windows Firewall: <br/>
+Step 3: Login to the Domain Controller and enable ICMPv4 Protocols through Windows Firewall: <br/>
 <br />
  
 https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13-b2c8-b88996f2308a.mp4
@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13
 <br />
 <br />
 <p align="center">
-Install Active Directory : Login to DC-1 to install Active Directory Domain Services  
+Step 4: Login to DC-1 to install Active Directory Domain Services  
 <br/>
 <br />
  
@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b
 <br />
 <br />
 <p align="center">
-New forest as mydomain.com :  
+Step 5: New forest as mydomain.com 
 <br />
 <br />
 <img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/119460677/213623591-ce98c861-3f94-44cd
 
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Create an Admin and User Account in Active Directory:  <br/>
 </p>
 
 
