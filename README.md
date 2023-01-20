@@ -86,7 +86,13 @@ https://user-images.githubusercontent.com/119460677/213626070-d3ef4de0-7696-4940
 
 <br />
 <br />
-Step 8: In Azure I'll be joining Client 1 to my domain. Setting client 1's DNS settings to DC's private IP address  <br/>
+
+
+
+
+
+
+Step 8: In Azure Virtual Machines I'll be joining Client 1 to my domain. Setting client 1's DNS settings to DC's private IP address  <br/>
 
 
 https://user-images.githubusercontent.com/119460677/213627540-ebfa1117-f602-40eb-9c1f-0fe5acb08e2d.mp4
